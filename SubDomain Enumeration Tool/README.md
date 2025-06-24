@@ -34,3 +34,9 @@ It is a tool that is use in CyberSecurity and ethical hacking in order to identi
 5.3) The full report is saved in that file for future reference.
 
 
+![image](https://github.com/user-attachments/assets/75b85b0d-f1f0-4745-ab77-dc61e16adb93)
+
+
+![image](https://github.com/user-attachments/assets/fc4d60dd-861f-441f-9233-f192c47babe9)
+
+
