@@ -1,4 +1,4 @@
-### SubDomain Enumeration Tool
+# SubDomain Enumeration Tool
 It is a tool that is use in CyberSecurity and ethical hacking in order to identify valid subdomains associated with a main domain (e.g., finding mail.example.com, shop.example.com, etc., when given example.com).
 
 ## 🔍 Purpose of Subdomain Enumeration
