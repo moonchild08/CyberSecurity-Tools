@@ -1,4 +1,4 @@
-🔍 Port Scanner
+# 🔍 Port Scanner
 A fast multithreaded TCP port scanner built in Python.
 This tool scans a target host for open ports, detects running services, and grabs service banners if available.
 
@@ -19,43 +19,14 @@ This tool scans a target host for open ports, detects running services, and grab
 4. concurrent.futures
    sys
 
-📦 Installation
-
-Clone the repository:
-
-git clone https://github.com/your-username/port-scanner.git
-cd port-scanner
-
-
-No external dependencies required 🎉
-
-▶️ Usage
-
+## Usage
 Run the script:
-
 python port_scanner.py
 
+## Output
+<img width="940" height="312" alt="image" src="https://github.com/user-attachments/assets/8f652886-b0a1-46d0-9544-3f6c0e93a469" />
 
-Enter details when prompted:
+## Future Improvements
 
-Enter your target ip: 192.168.1.1
-Enter the start port: 1
-Enter end port: 1024
-
-📊 Example Output
-Starting scan on host: 192.168.1.1
-Progress: 1024/1024 ports scanned
-
-Port Scan Results:
-Port     Service         Status
--------------------------------------------------------------------------------------
-22       ssh             Open
-          SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.7
-80       http            Open
-          HTTP/1.1 400 Bad Request
-443      https           Open
-
-⚡ Future Improvements
-
-Add UDP scanning support
-Integration with GUI
+1. Add UDP scanning support
+2. Integration with GUI
