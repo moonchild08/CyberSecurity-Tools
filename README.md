@@ -128,12 +128,12 @@
 * **Purpose:** Encrypt and decrypt PDF files.
 
 * **Features:**
- * PDF encryption with user-defined password.
- * Decryption via:
-    * Wordlist attack.
-    * Brute-force attack with customizable charset, min/max length.
-    * Multi-threaded password attempts for speed.
- * GUI using Tkinter with clear tabs for encrypt/decrypt operations.
+  * PDF encryption with user-defined password.
+  * Decryption via:
+     * Wordlist attack.
+     * Brute-force attack with customizable charset, min/max length.
+  * Multi-threaded password attempts for speed.
+  * GUI using Tkinter with clear tabs for encrypt/decrypt operations.
 * **Use Case:** Demonstrates file security concepts and password recovery techniques.
 
 ---
