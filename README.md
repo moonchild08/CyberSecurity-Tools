@@ -158,7 +158,7 @@
 | ------------------------ | ----------------------------- | -------------------------------------------------------------------------------------------------- |
 | Network Scanning         | Network Scanner               | Find devices in LAN, get IP/MAC/Hostname                                                           |
 | Network Scanning         | Port Scanner                  | Scan open ports, services, banners                                                                 |
-| Password Cracking        | Hash Cracker                  | Recover passwords from hashes using wordlists/brute-force                                          |
+| Password Cracking        | Password Cracker              | Recover passwords from hashes using wordlists/brute-force                                          |
 | SSH Brute Force          | Simple SSH Brute              | Single user/password list SSH brute force                                                          |
 | SSH Brute Force          | Advanced SSH Brute            | Multi-user, multi-password, generated passwords, multi-threaded                                    |
 | FTP Brute Force          | Basic FTP Brute               | Single user/host FTP brute force                                                                   |
