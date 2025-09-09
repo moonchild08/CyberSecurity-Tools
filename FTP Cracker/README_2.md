@@ -76,14 +76,8 @@ python ftp_brute.py
   - Why strong passwords and account lockout policies are crucial.
 
 
-
+---
 ⚠️ **Disclaimer:**  
 This script is for **educational and research purposes only**.  
 Unauthorized use against systems you do not own or have explicit permission to test is **illegal**.
 
-⚠️ Ethical Use
-✅ For students: Learn about brute-force attacks in a safe, controlled environment.
-
-✅ For pentesters: Use in authorized security assessments.
-
-❌ Do not use this tool against systems without permission.
