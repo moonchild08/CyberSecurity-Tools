@@ -58,6 +58,12 @@ upload <filename> → upload a file to client
 
 exit → close connection
 
+### Output snippets -
+<img width="940" height="670" alt="image" src="https://github.com/user-attachments/assets/8c9fdcf1-4109-4ca8-b036-c884166651f5" />
+
+
+<img width="940" height="668" alt="image" src="https://github.com/user-attachments/assets/7ffec51c-25eb-43f7-97af-7f4c962cd614" />
+
 # Ethical Notice
 
 This project is for:
