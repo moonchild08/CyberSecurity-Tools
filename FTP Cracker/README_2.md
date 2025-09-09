@@ -1,4 +1,4 @@
-# 🔑 FTP Brute Force Script 
+# 🔑 FTP Brute Force Script (Advance)
 
 A simple multithreaded FTP brute-force script written in Python using the `ftplib` library.  
 This project is designed **only for ethical use** in penetration testing labs, Capture the Flag (CTF) challenges, or cybersecurity learning environments.  
@@ -61,7 +61,6 @@ python ftp_brute.py
 
 
 ### Example Output
-<img width="283" height="216" alt="image" src="https://github.com/user-attachments/assets/d779588a-9c86-498b-94cd-50217359c5b6" />
 
 <img width="940" height="186" alt="image" src="https://github.com/user-attachments/assets/c675bf34-968e-46aa-9657-7c2757b19ff2" />
 
