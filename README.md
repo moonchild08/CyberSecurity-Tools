@@ -154,17 +154,19 @@
 
 ### **Summary Table of Projects**
 
-| Project Type      | Project Name                  | Functionality                                                   |
-| ----------------- | ----------------------------- | --------------------------------------------------------------- |
-| Network Scanning  | Network Scanner               | Find devices in LAN, get IP/MAC/Hostname                        |
-| Network Scanning  | Port Scanner                  | Scan open ports, services, banners                              |
-| Password Cracking | Hash Cracker                  | Recover passwords from hashes using wordlists/brute-force       |
-| SSH Brute Force   | Simple SSH Brute              | Single user/password list SSH brute force                       |
-| SSH Brute Force   | Advanced SSH Brute            | Multi-user, multi-password, generated passwords, multi-threaded |
-| FTP Brute Force   | Basic FTP Brute               | Single user/host FTP brute force                                |
-| FTP Brute Force   | Advanced FTP Brute            | Multi-user, password generation, threads, flexible              |
-| Remote Access     | Reverse Shell                 | Remote command execution, file transfer                         |
-| Info Stealer      | Browser/Clipboard/System Info | Extract browser passwords, clipboard content, system info       |
+| Project Type             | Project Name                  | Functionality                                                                                      |
+| ------------------------ | ----------------------------- | -------------------------------------------------------------------------------------------------- |
+| Network Scanning         | Network Scanner               | Find devices in LAN, get IP/MAC/Hostname                                                           |
+| Network Scanning         | Port Scanner                  | Scan open ports, services, banners                                                                 |
+| Password Cracking        | Hash Cracker                  | Recover passwords from hashes using wordlists/brute-force                                          |
+| SSH Brute Force          | Simple SSH Brute              | Single user/password list SSH brute force                                                          |
+| SSH Brute Force          | Advanced SSH Brute            | Multi-user, multi-password, generated passwords, multi-threaded                                    |
+| FTP Brute Force          | Basic FTP Brute               | Single user/host FTP brute force                                                                   |
+| FTP Brute Force          | Advanced FTP Brute            | Multi-user, password generation, threads, flexible                                                 |
+| Remote Access            | Reverse Shell                 | Remote command execution, file transfer                                                            |
+| Info Stealer             | Information Stealer           | Extract browser passwords, clipboard content, system info                                          |
+| PDF Protection & Cracker | PDF Protector & Cracker       | Encrypt PDF files with password, decrypt using wordlist or brute-force                             |
+| Reconnaissance/Domain    | Subdomain Enumeration Tool    | Enumerate subdomains, perform DNS record lookup (A, AAAA, MX, CNAME, TXT, SOA), check mail servers |
 
 ---
 
