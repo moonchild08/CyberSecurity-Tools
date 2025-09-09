@@ -27,29 +27,14 @@ pip install tqdm
 
 ## Usage
 ### Wordlist Attack
-python hash_cracker.py <hash> -w wordlist.txt --hash_type sha256
+<img width="1222" height="185" alt="image" src="https://github.com/user-attachments/assets/f538332f-01a4-401f-a11d-878d2bb89962" />
 
 
-Example:
-
-python hash_cracker.py e3afed0047b08059d0fada10f400c1e5 -w rockyou.txt --hash_type md5
-
-🔨 Brute-force Attack
-python hash_cracker.py <hash> --hash_type sha1 --min_length 3 --max_length 5 -c abc123
-
-
-Example:
-
-python hash_cracker.py 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 --hash_type sha1 --min_length 3 --max_length 6 -c abcdef123
-
-📊 Example Output
+### Brute-force Attack
 <img width="940" height="206" alt="image" src="https://github.com/user-attachments/assets/bb4817be-b13d-47fb-9ee3-958f717e8ac7" />
 
 
  ## Future Improvements
-1. Add GPU acceleration (via CUDA / OpenCL)
-2. Support for rainbow tables
-
-Add hybrid attack mode (wordlist + mutations)
-
-GUI interface
+1. Support for rainbow tables
+2. Add hybrid attack mode (wordlist + mutations)
+3. GUI interface
