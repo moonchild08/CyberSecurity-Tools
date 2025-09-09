@@ -123,6 +123,35 @@
 
 ---
 
+## 7. PDF Protector & Cracker
+
+* **Purpose:** Encrypt and decrypt PDF files.
+
+* **Features:**
+ * PDF encryption with user-defined password.
+ * Decryption via:
+    * Wordlist attack.
+    * Brute-force attack with customizable charset, min/max length.
+    * Multi-threaded password attempts for speed.
+ * GUI using Tkinter with clear tabs for encrypt/decrypt operations.
+* **Use Case:** Demonstrates file security concepts and password recovery techniques.
+
+---
+
+## 8. Subdomain Enumeration & DNS Tool
+
+* **Purpose:** Gather information about a domain for reconnaissance.
+
+* **Features:**
+  * Subdomain enumeration using a wordlist.\
+  * DNS lookup for A, AAAA, CNAME, MX, TXT, SOA records.
+  * Mail server port checking (25, 465, 587).
+  * GUI with live logging of results.
+  * Full scan report saved with timestamp.
+* **Use Case:** Useful for ethical hacking and security assessments of domains.
+
+---
+
 ### **Summary Table of Projects**
 
 | Project Type      | Project Name                  | Functionality                                                   |
