@@ -20,13 +20,6 @@ This tool discovers all active devices in a given network by sending ARP request
 3. Socket library (for hostname lookup)
 4. Threading
 
-## Installation
-
-Clone the repository: 
-
-git clone https://github.com/your-username/network-scanner.git
-cd network-scanner
-
 
 ### Install dependencies: 
 pip install scapy
