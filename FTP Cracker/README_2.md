@@ -61,11 +61,11 @@ python ftp_brute.py
 
 
 ### Example Output
-<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/80e418fb-3596-4df9-b59e-c8bdfec002a6" />
+<img width="283" height="216" alt="image" src="https://github.com/user-attachments/assets/d779588a-9c86-498b-94cd-50217359c5b6" />
 
-<img width="905" height="380" alt="image" src="https://github.com/user-attachments/assets/e2c01413-385c-4578-82f1-bc0d5b1d7658" />
+<img width="940" height="186" alt="image" src="https://github.com/user-attachments/assets/c675bf34-968e-46aa-9657-7c2757b19ff2" />
 
-<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/2aaecb17-e6e7-4ae3-a5d8-16345e1b31e0" />
+<img width="940" height="244" alt="image" src="https://github.com/user-attachments/assets/c3cfbbd5-d995-4fa5-89e1-d7f60146c0c5" />
 
 
 
